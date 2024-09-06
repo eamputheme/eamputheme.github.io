@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eamputheme.github.io/sitemap.html.gz
+Sitemap: https://eamputheme.github.io/app/sitemap.html.gz
+Sitemap: https://eamputheme.github.io/assets/sitemap.html.gz
+Sitemap: https://eamputheme.github.io/css/sitemap.html.gz
+Sitemap: https://eamputheme.github.io/includes/sitemap.html.gz
+Sitemap: https://eamputheme.github.io/item/sitemap.html.gz
+Sitemap: https://eamputheme.github.io/src/sitemap.html.gz
